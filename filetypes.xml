@@ -2,44 +2,42 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.*;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="ItemSummaryPoints" type="PLAIN_TEXT" />
       <mapping pattern="CohortUserTypes" type="PLAIN_TEXT" />
       <mapping pattern="GroupMigrationImplA" type="PLAIN_TEXT" />
       <mapping pattern="ContentBootstrap" type="PLAIN_TEXT" />
       <mapping pattern="LearningHubSettingsBootstrap" type="PLAIN_TEXT" />
-      <mapping pattern="NavigationLayoutStyle" type="PLAIN_TEXT" />
       <mapping pattern="RawHTML" type="PLAIN_TEXT" />
       <mapping pattern="SecurityGroups3" type="PLAIN_TEXT" />
+      <mapping pattern="NavigationLayoutStyle" type="PLAIN_TEXT" />
       <mapping pattern="MyFavorites" type="PLAIN_TEXT" />
       <mapping pattern="RecommendedContent" type="PLAIN_TEXT" />
       <mapping pattern="MigrationImplB" type="PLAIN_TEXT" />
       <mapping pattern="MigrationImplA" type="PLAIN_TEXT" />
+      <mapping pattern="ItemSummaryPoint" type="PLAIN_TEXT" />
       <mapping pattern="UpdateAttributeTargets" type="PLAIN_TEXT" />
-      <mapping pattern="LearningHub" type="PLAIN_TEXT" />
       <mapping pattern="DiscussionModeration" type="PLAIN_TEXT" />
-      <mapping pattern="ContentCompletion" type="PLAIN_TEXT" />
       <mapping pattern="LearningHubBackground" type="PLAIN_TEXT" />
-      <mapping pattern="ContentCompletion2" type="PLAIN_TEXT" />
       <mapping pattern="ContentDiscussion" type="PLAIN_TEXT" />
+      <mapping pattern="DiscussableContent" type="PLAIN_TEXT" />
       <mapping pattern="DiscussableContent2" type="PLAIN_TEXT" />
       <mapping pattern="ExternalLink" type="PLAIN_TEXT" />
       <mapping pattern="routes" type="PLAIN_TEXT" />
-      <mapping pattern="ItemSummaryPoint" type="PLAIN_TEXT" />
-      <mapping pattern="DiscussableContent" type="PLAIN_TEXT" />
+      <mapping pattern="ContentCompletion2" type="PLAIN_TEXT" />
+      <mapping pattern="ContentCompletion" type="PLAIN_TEXT" />
+      <mapping pattern="LearningHub" type="PLAIN_TEXT" />
       <mapping pattern="LearningHubTileSlug" type="PLAIN_TEXT" />
       <mapping pattern="start" type="PLAIN_TEXT" />
       <mapping ext="migrationservice" type="PLAIN_TEXT" />
-      <mapping ext="migration" type="PLAIN_TEXT" />
-      <mapping ext="defaults" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="defaults" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="circulardependencymigration" type="PLAIN_TEXT" />
+      <mapping ext="migration" type="PLAIN_TEXT" />
       <mapping ext="falsepositivecircularmigration" type="PLAIN_TEXT" />
       <mapping ext="groupmigration" type="PLAIN_TEXT" />
-      <mapping pattern="messages" type="Play2" />
-      <mapping pattern="docker-remove-container" type="Python" />
       <mapping ext="raml" type="YAML" />
+      <mapping pattern="docker-remove-container" type="Python" />
     </extensionMap>
   </component>
 </application>
