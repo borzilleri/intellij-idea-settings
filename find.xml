@@ -4,5 +4,27 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.hbs" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.mxml/</mask>
+      <mask>(.</mask>
+      <mask>(</mask>
+      <mask>*</mask>
+      <mask>*.js</mask>
+      <mask>*.jnd</mask>
+      <mask>*.jn</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.hbs</mask>
+    </recentFileMasks>
   </component>
 </application>
