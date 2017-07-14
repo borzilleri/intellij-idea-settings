@@ -5,6 +5,7 @@
       <mapping pattern="ItemSummaryPoints" type="PLAIN_TEXT" />
       <mapping pattern="CohortUserTypes" type="PLAIN_TEXT" />
       <mapping pattern="GroupMigrationImplA" type="PLAIN_TEXT" />
+      <mapping pattern="elasticsearch" type="PLAIN_TEXT" />
       <mapping pattern="ContentBootstrap" type="PLAIN_TEXT" />
       <mapping pattern="LearningHubSettingsBootstrap" type="PLAIN_TEXT" />
       <mapping pattern="RawHTML" type="PLAIN_TEXT" />
