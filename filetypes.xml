@@ -10,6 +10,7 @@
       <mapping pattern="ContentBootstrap" type="PLAIN_TEXT" />
       <mapping pattern="LearningHubSettingsBootstrap" type="PLAIN_TEXT" />
       <mapping pattern="ContentDiscussion" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="RawHTML" type="PLAIN_TEXT" />
       <mapping pattern="SecurityGroups3" type="PLAIN_TEXT" />
       <mapping pattern="MyFavorites" type="PLAIN_TEXT" />
