@@ -5,6 +5,7 @@
       <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="DeployTest" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="DeployTest2" type="Groovy" />
       <mapping pattern="ItemSummaryPoints" type="PLAIN_TEXT" />
       <mapping pattern="CohortUserTypes" type="PLAIN_TEXT" />
       <mapping pattern="GroupMigrationImplA" type="PLAIN_TEXT" />
