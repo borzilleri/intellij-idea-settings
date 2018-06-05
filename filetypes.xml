@@ -24,6 +24,7 @@
       <mapping pattern="ContentCompletion" type="PLAIN_TEXT" />
       <mapping pattern="DiscussableContent" type="PLAIN_TEXT" />
       <mapping pattern="RawHTML" type="PLAIN_TEXT" />
+      <mapping pattern="mlp" type="PLAIN_TEXT" />
       <mapping pattern="elasticsearch" type="PLAIN_TEXT" />
       <mapping pattern="LearningHub" type="PLAIN_TEXT" />
       <mapping pattern="MigrationImplB" type="PLAIN_TEXT" />
