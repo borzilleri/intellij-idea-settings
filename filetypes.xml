@@ -13,6 +13,7 @@
       <mapping pattern="ItemSummaryPoints" type="PLAIN_TEXT" />
       <mapping pattern="ContentDiscussion" type="PLAIN_TEXT" />
       <mapping pattern="MigrationImplB" type="PLAIN_TEXT" />
+      <mapping pattern="PullRequestTester" type="PLAIN_TEXT" />
       <mapping pattern="ContentBootstrap" type="PLAIN_TEXT" />
       <mapping pattern="GroupMigrationImplA" type="PLAIN_TEXT" />
       <mapping pattern="DiscussionModeration" type="PLAIN_TEXT" />
