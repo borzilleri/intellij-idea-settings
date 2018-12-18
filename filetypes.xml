@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.*;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="docker-launch" type="Bash" />
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="DeployTest" type="Groovy" />
       <mapping pattern="DeployTest2" type="Groovy" />
