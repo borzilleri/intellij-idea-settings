@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="dep" value="/**&#10; * @deprecated $reason$&#10; */&#10;@Deprecated" description="Deprecated Method" toReformat="false" toShortenFQNames="true">
+    <variable name="reason" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
