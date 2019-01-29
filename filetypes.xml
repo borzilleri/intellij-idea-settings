@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="docker-launch" type="Bash" />
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="DeployTest" type="Groovy" />
       <mapping pattern="DeployTest2" type="Groovy" />
