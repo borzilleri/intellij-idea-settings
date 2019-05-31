@@ -8,6 +8,7 @@
       <mapping pattern="DeployTest" type="Groovy" />
       <mapping pattern="DeployTest2" type="Groovy" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="logger" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="migrationservice" type="PLAIN_TEXT" />
