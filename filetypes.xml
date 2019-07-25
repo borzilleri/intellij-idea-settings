@@ -2,25 +2,35 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.*;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="docker-launch" type="Bash" />
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="DeployTest2" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="DeployTest" type="Groovy" />
-      <mapping pattern="DeployTest2" type="Groovy" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
-      <mapping ext="logger" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="migrationservice" type="PLAIN_TEXT" />
-      <mapping ext="defaults" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="circulardependencymigration" type="PLAIN_TEXT" />
-      <mapping ext="migration" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
+      <mapping ext="migration" type="PLAIN_TEXT" />
+      <mapping ext="migrationservice" type="PLAIN_TEXT" />
       <mapping ext="falsepositivecircularmigration" type="PLAIN_TEXT" />
       <mapping ext="groupmigration" type="PLAIN_TEXT" />
-      <mapping pattern="docker-remove-container" type="Python" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="logger" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="defaults" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="raml" type="YAML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="docker-launch" type="Bash" />
+      <mapping pattern="docker-remove-container" type="Python" />
     </extensionMap>
   </component>
 </application>
