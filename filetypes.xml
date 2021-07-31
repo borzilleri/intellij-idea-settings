@@ -1,24 +1,19 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.*;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*~;.*;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="options" type="PLAIN_TEXT" />
+      <mapping ext="defaults" type="PLAIN_TEXT" />
       <mapping ext="logger" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="defaults" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="options" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="docker-remove-container" type="Python" />
       <mapping ext="raml" type="YAML" />
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
     </extensionMap>
   </component>
