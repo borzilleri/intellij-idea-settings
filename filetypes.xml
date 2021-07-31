@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*~;.*;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
       <mapping ext="defaults" type="PLAIN_TEXT" />
